@@ -1,6 +1,6 @@
-# bitcoin
+# Bitcoin Tracker
 
-A new Flutter project.
+A cryptocurrency tracker.
 
 ## Getting Started
 
