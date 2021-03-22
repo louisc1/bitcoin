@@ -1,6 +1,6 @@
-# Bitcoin
+# Bitcoin Tracker
 
-A new cryptocurrency tracker.
+A cryptocurrency tracker.
 
 ## Getting Started
 
